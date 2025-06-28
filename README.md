@@ -6,14 +6,6 @@ A dynamic and educational **Sorting Algorithm Visualizer** built using **Java**.
 
 ---
 
-## 📽️ Demo
-
-> 🎥 *(Add a GIF or screenshot here of the visualizer in action)*  
-> Example:  
-> ![Sorting Visualizer Demo](demo.gif)
-
----
-
 ## 🎯 Features
 
 - ✅ Real-time visualization of sorting steps
@@ -32,7 +24,6 @@ A dynamic and educational **Sorting Algorithm Visualizer** built using **Java**.
 - 🟧 Merge Sort  
 - 🟥 Quick Sort  
 
-*(Easily extensible to add more algorithms)*
 
 ---
 
